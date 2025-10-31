@@ -1,612 +1,354 @@
 [
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Tigre  "
+        "mensagem": "Eu estava lendo sobre tigres hoje, sabia que eles são os maiores felinos do mundo?  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Futebol  "
+        "mensagem": "Sim, é incrível! E a força deles também é impressionante. Você sabia que eles podem arrastar presas pesando mais de 500 kg?  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Leão  "
+        "mensagem": "Uau, isso é fascinante. E você sabia que tigres têm padrões únicos nas listras, como uma impressão digital?  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Basquete  "
+        "mensagem": "Sabia! É uma das formas de identificá-los na natureza. Os pesquisadores tiram fotos e comparam o padrão para monitorar cada um deles.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Cavalo  "
+        "mensagem": "Isso é muito interessante. Também fiquei sabendo que os elefantes conseguem reconhecer suas próprias imagens em um espelho.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Tênis  "
+        "mensagem": "Verdade, eles são extremamente inteligentes. Aliás, eles têm uma memória impressionante! Não é à toa que falam sobre a \"memória de elefante\".  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Canguru  "
+        "mensagem": "E eles também são muito sociais, né? Os elefantes criam laços com seu grupo e até demonstram tristeza quando algum membro morre.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Vôlei  "
+        "mensagem": "Sim, dá pra perceber o quanto eles são emocionais. Outra coisa incrível é que eles comunicam umas às outras com sons de baixa frequência que nem sempre conseguimos ouvir.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Elefante  "
+        "mensagem": "Sabe quais outros animais têm uma comunicação interessante? Os golfinhos! Eles têm seus próprios \"nomes\" e chamam uns aos outros.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Natação  "
+        "mensagem": "Verdade! Golfinhos são extremamente inteligentes. Além disso, eles têm uma capacidade incrível de cooperação, tanto entre si quanto com os humanos.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Águia  "
+        "mensagem": "Falando em cooperação, as formigas também são impressionantes nesse aspecto. Elas têm um sistema organizado na colônia que funciona quase como um \"superorganismo\".  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Boxe  "
+        "mensagem": "Exato, cada formiga tem funções específicas e trabalha para o bem da colônia. E sabia que algumas formigas cultivam até fungos para comer? É como agricultura!  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Panda  "
+        "mensagem": "Isso mesmo! E sabia que algumas espécies de formigas têm soldados para proteger a colônia contra invasores?  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Rugby  "
+        "mensagem": "Sim, como aquelas formigas \"soldado\" que têm cabeças grandes para bloquear a entrada de intrusos nos túneis.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Girafa  "
+        "mensagem": "Realmente impressionante. E as abelhas? Elas também vivem em uma sociedade super organizada, com funções bem definidas.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Golfe  "
+        "mensagem": "Sim, tem a rainha, as operárias e os zangões! E as abelhas operárias fazem aquela famosa dança para mostrar onde está a comida.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Lobo  "
+        "mensagem": "Essa dança das abelhas é tão incrível, elas conseguem indicar até a direção e distância das flores.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Críquete  "
+        "mensagem": "Exatamente! E falando em jardins, os pássaros também têm um papel importante ao espalhar sementes enquanto se alimentam.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Jacaré  "
+        "mensagem": "Verdade, sem os pássaros muitas plantas nem conseguiriam se espalhar tão amplamente. É como uma forma natural de reflorestamento.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Hóquei  "
+        "mensagem": "Isso mesmo! E sabia que alguns pássaros, como os corvos, são super inteligentes? Eles conseguem resolver problemas complexos.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Arraia  "
+        "mensagem": "Sim, corvos são incríveis. Eles até lembram quem tratou bem ou mal deles e podem \"reconhecer\" rostos humanos.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Badminton  "
+        "mensagem": "Isso é muito surpreendente. E os papagaios? Eles conseguem imitar vozes humanas com precisão.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Camaleão  "
+        "mensagem": "É, os papagaios têm uma capacidade vocal impressionante. E algumas espécies também são conhecidas por sua longevidade, vivendo décadas!  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Escalada  "
+        "mensagem": "Sim, e quanto mais vivem, mais parecem aprender. Falando em longevidade, tartarugas são outro exemplo. Algumas podem viver mais de 100 anos!  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Cavalo-marinho  "
+        "mensagem": "Elas vivem tanto tempo que às vezes passam por várias gerações de famílias que cuidam delas. É impressionante!  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Patinação  "
+        "mensagem": "Sim, e além disso, as tartarugas marinhas viajam milhares de quilômetros no oceano para reproduzir e colocar seus ovos.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Coruja  "
+        "mensagem": "Esse instinto migratório é realmente incrível. E os salmões fazem algo parecido, voltando ao lugar onde nasceram para se reproduzir.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Atletismo  "
+        "mensagem": "Verdade, como eles conseguem encontrar o caminho exato usando o olfato? É uma habilidade impressionante!  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Falcão  "
+        "mensagem": "Habilidades incríveis são muito comuns entre os animais. Por exemplo, os camaleões conseguem mudar a cor da pele para se camuflar.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Esgrima  "
+        "mensagem": "Sim, e além da camuflagem, eles têm olhos que se movem independentemente, então eles podem olhar em duas direções ao mesmo tempo.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Cervo  "
+        "mensagem": "E sabe outro animal com olhos impressionantes? Os polvos! Eles têm uma visão excelente e conseguem até mudar de cor para se adaptar ao ambiente.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Canoagem  "
+        "mensagem": "Polvos são fascinantes. Eles também são mestres da fuga, podendo se espremer por espaços minúsculos para escapar dos predadores.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Porco-espinho  "
+        "mensagem": "É incrível como são inteligentes. Já vi vídeos de polvos abrindo potes fechados para pegar comida.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Jiu-Jitsu  "
+        "mensagem": "Eu também! E outro cephalópode incrível é a lula. Algumas têm bioluminescência e podem produzir luz no fundo do oceano.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Anta  "
+        "mensagem": "Essa bioluminescência é tão bonita. E os vagalumes também têm esse fenômeno, né? Várias espécies usam para atrair parceiros.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Surf  "
+        "mensagem": "Verdade! Eles têm um padrão de piscada que ajuda a identificar a espécie. É como um código secreto entre eles.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Tartaruga  "
+        "mensagem": "Falando em sinais, os cães também têm sua \"linguagem corporal\". Eles conseguem comunicar tanto usando o olhar quanto os movimentos da cauda.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Triatlo  "
+        "mensagem": "Sim, e são especialistas em interpretar os humanos também. Parece que eles têm uma conexão especial conosco.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Golfinho  "
+        "mensagem": "E não é à toa que chamam os cães de \"melhor amigo do homem\". Mas os gatos também têm comportamentos incríveis, como sempre encontrarem o sol para dormir.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Crossfit  "
+        "mensagem": "Verdade! Eles adoram conforto, mas também são super habilidosos. Já viu como conseguem se equilibrar até nos lugares mais estreitos?  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Esquilo  "
+        "mensagem": "Sim, os gatos realmente têm grande equilíbrio. E sabia que os ursos, mesmo sendo grandes, conseguem correr muito rápido?  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Snowboarding  "
+        "mensagem": "É incrível, eles conseguem atingir até 40 km/h. E apesar disso, são também ótimos nadadores, especialmente os ursos polares.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Bicho-preguiça  "
+        "mensagem": "E os pinguins, sabiam que eles são incríveis nadadores também? Algumas espécies podem nadar até 10 km por hora debaixo d’água.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Skate  "
+        "mensagem": "Sim! E o mais curioso é que eles não podem voar, mas compensam isso com sua habilidade no mergulho.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Cavalo-de-tróia (mitológico)  "
+        "mensagem": "Isso é fascinante. Outra coisa que aprendi é que os jacarés podem ficar horas quase imóveis na água enquanto caçam.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Luta Greco-romana  "
+        "mensagem": "É verdade! Eles são super pacientes, só atacam na hora certa. E o mais interessante é que conseguem regular a temperatura ficando na sombra ou no sol.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Avestruz  "
+        "mensagem": "A natureza realmente é cheia de adaptações incríveis. Sabe, as cobras também têm técnicas de caça bem impressionantes, dependendo da espécie.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Handebol  "
+        "mensagem": "Sim! Algumas se camuflam no ambiente, enquanto outras até têm veneno que paralisa a presa instantaneamente.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Alce  "
+        "mensagem": "Agora que você falou de veneno, eu lembrei das águas-vivas. Algumas espécies têm toxinas tão fortes que podem ser fatais para os humanos.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Ciclismo  "
+        "mensagem": "Verdade! Mas algumas águas-vivas também são bioluminescentes e deixam o oceano iluminado à noite.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Jaguatirica  "
+        "mensagem": "Essa bioluminescência é uma das coisas mais bonitas da natureza. Outro animal fantástico é o vaga-lume-vampiro, que se alimenta de outros insetos.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Tiro com Arco  "
+        "mensagem": "Nossa, eu não conhecia esse! Já que estamos falando de insetos, sabia que os gafanhotos conseguem saltar até 20 vezes o comprimento do seu corpo?  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Lontra  "
+        "mensagem": "Sim, e eles também têm uma audição excelente para detectar predadores. E falando em audição, os morcegos têm um sistema incrível de ecolocalização.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Polo Aquático  "
+        "mensagem": "Isso mesmo! Eles emitem sons e conseguem \"ver\" os arredores com as ondas que voltam. É como um sonar natural.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Narval  "
+        "mensagem": "Impressionante! E a coruja? Ela consegue girar o pescoço quase completamente para enxergar ao redor.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Maratona  "
+        "mensagem": "Sim, as corujas têm uma visão magnífica, especialmente à noite. Elas são caçadoras noturnas excelentes.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Gato  "
+        "mensagem": "Outra caçadora noturna incrível é a pantera negra. Sua pelagem escura ajuda na camuflagem durante a caça.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Remo  "
+        "mensagem": "Sim, e aquele olhar penetrante dela é tão característico! Ela é realmente uma predadora silenciosa na floresta.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Raposa  "
+        "mensagem": "Falando em predadores silenciosos, os lobos possuem táticas de caça em grupo que são muito eficientes.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Squash  "
+        "mensagem": "Verdade, eles trabalham como uma equipe, cercando a presa. Isso mostra como eles têm uma comunicação avançada no grupo.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Coala  "
+        "mensagem": "E os suricatos? Eles têm sentinelas para vigiar o grupo enquanto outros forrageiam.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Ginástica  "
+        "mensagem": "Exatamente! Eles são extremamente cooperativos. E cada suricato tem uma função para manter o grupo seguro.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Rena  "
+        "mensagem": "Os animais realmente têm sistemas sociais impressionantes. E os cavalos, sabia que eles conseguem sentir emoções humanas?  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Pentatlo  "
+        "mensagem": "Sim! Eles são muito sensíveis. E são animais extremamente leais uma vez que criam um vínculo com alguém.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Hyrax  "
+        "mensagem": "Outra coisa incrível é que cavalos também conseguem dormir em pé. Isso ajuda a se manterem vigilantes contra predadores.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Kickboxing  "
+        "mensagem": "Verdade! E eles têm cascos fortes que os ajudam a percorrer longas distâncias, mesmo em terrenos difíceis.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Quokka  "
+        "mensagem": "Falando em percorrer grandes distâncias, as borboletas monarcas fazem migrações incríveis de milhares de quilômetros.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Artes Marciais  "
+        "mensagem": "Sim! Elas viajam para lugares mais quentes durante o inverno e conseguem encontrar o caminho com uma precisão impressionante.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Gambá  "
+        "mensagem": "É fascinante como elas conseguem se orientar. Você sabia que a pele dos tubarões tem textura semelhante a papel de lixa?  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Pesca Esportiva  "
+        "mensagem": "Sim! Isso é por causa das pequenas escamas dentadas. Essa estrutura ajuda os tubarões a nadar mais rápido por reduzir resistência na água.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Lêmure  "
+        "mensagem": "Falando em nadar rápido, os peixes-espada são muito rápidos e podem atingir velocidades impressionantes.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Corrida de Cavalos  "
+        "mensagem": "Sem dúvida! Eles têm aquele formato aerodinâmico que permite cortar a água com facilidade.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Tamanduá  "
+        "mensagem": "E um peixe que também é fascinante é o baiacu. Ele consegue inflar para assustar predadores.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Corrida  "
+        "mensagem": "Sim, e algumas espécies de baiacu têm veneno que podem ser mortais. Mesmo assim, eles são considerados uma iguaria em alguns países.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Ornitorrinco  "
+        "mensagem": "Outra iguaria curiosa na culinária são os caracóis, mas eles na natureza têm sua própria habilidade de se proteger com suas conchas.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Pilates  "
+        "mensagem": "Sim, e algumas espécies de caracóis podem até hibernar por meses em condições extremas, aguardando chuvas para voltar a ser ativo.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Morcego  "
+        "mensagem": "Fascinante como eles adaptam suas vidas ao ambiente. E as aranhas, sabia que algumas conseguem tecer teias que são mais fortes que aço?  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Corda de Pular  "
+        "mensagem": "Sim, essas teias são incrivelmente resistentes e ainda funcionam como armadilhas quase invisíveis para suas presas.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Caracal  "
+        "mensagem": "É mesmo! Outro caçador microscópico é o louva-a-deus, que tem movimentos precisos e consegue atacar rapidamente.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Esqui  "
+        "mensagem": "Sim, ele é incrível! E os olhos dele permitem uma visão tridimensional única entre os insetos.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Feneco  "
+        "mensagem": "Falando em visão, os camarões mantis têm olhos tão avançados que conseguem ver cores que os humanos nem imaginam.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Corrida de Obstáculos  "
+        "mensagem": "Verdade! Eles têm um sistema de visão tão complexo que os torna uns dos melhores caçadores no fundo do mar.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Lince  "
+        "mensagem": "A natureza realmente nunca deixa de surpreender. Você sabia que os coalas têm digitais quase iguais às dos humanos?  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Parkour  "
+        "mensagem": "Sim, é fascinante! E eles passam a maior parte do tempo dormindo, mas comem folhas de eucalipto que são difíceis de digerir.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Bicho-da-seda  "
+        "mensagem": "E os pandas gigantes também têm suas preferências alimentares. Apesar de serem tecnicamente onívoros, eles comem quase exclusivamente bambu.  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Dança Esportiva  "
+        "mensagem": "Sim! E eles podem passar horas mastigando bambu porque não é tão nutritivo, então precisam de grandes quantidades.  "
     },
     {
-        "summary": "animais",
         "persona": "Persona 1",
-        "mensagem": "Craca  "
+        "mensagem": "Enfim, cada animal tem suas próprias características únicas. Dá para aprender muito com eles, né?  "
     },
     {
-        "summary": "esportes",
         "persona": "Persona 2",
-        "mensagem": "Corrida de Charrete  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Guaxinim  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Arremesso de Peso  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Bicho-Pau  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Tiro ao Alvo  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Aranha  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Corrida de Montanha  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Tatu  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Futsal  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Minhoca  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Beisebol  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Lombriga  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Softbol  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Besouro  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Arremesso de Disco  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Libélula  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Pádel  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Cavalo Selvagem  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Corrida de Ciclismo  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Ácaro  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Corrida Automobilística  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Chita  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Torneio de Damás  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Cachorro  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Peteca  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Rato  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Dodgeball  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Camelo  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Slalom  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Rinoceronte  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Quimbol  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Gambá-mirim  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Corrida Open Water  "
-    },
-    {
-        "summary": "animais",
-        "persona": "Persona 1",
-        "mensagem": "Quati  "
-    },
-    {
-        "summary": "esportes",
-        "persona": "Persona 2",
-        "mensagem": "Javelin"
+        "mensagem": "Concordo totalmente! O mundo animal é cheio de talento e adaptações incríveis. Nunca deixa de nos surpreender!"
     }
 ]
