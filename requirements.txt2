@@ -11,4 +11,6 @@ langchain-text-splitters
 langchain-core
 pydantic
 typing
+pypdf
+PyPDF2
 
